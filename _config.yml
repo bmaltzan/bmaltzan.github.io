@@ -24,7 +24,8 @@ github_username:  bmaltzan
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
