@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![](https://avatars3.githubusercontent.com/u/334183?s=90&v=4)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Lead programmer at 
+[Macaulay Library](https://search.macaulaylibrary.org)
+/ [Cornell Lab of Ornithology](https://birds.cornell.edu)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Experienced in Java/Spring, Ruby/Rails, C/C++, SQL/Oracle, Unix
 
+Interests:
 
-[jekyll-organization]: https://github.com/jekyll
+- [Harmony with Nature](https://www.ithacakarate.com/) / [Ithaca Times article](https://www.ithaca.com/sports/steve_lawrence/harmony-with-nature-kathleen-garrity-s-decades-of-karate-leadership/article_4cb3e7dc-37e5-11ea-8efb-2fb64f04f268.html)
+
